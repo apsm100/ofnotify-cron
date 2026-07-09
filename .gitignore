@@ -1,0 +1,8 @@
+runner.log
+__pycache__/
+*.py[cod]
+
+# Debug/scrape artifacts (not meant to be published)
+debug_page.html
+debug_screenshot.png
+output.html
